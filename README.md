@@ -3,7 +3,20 @@
 <h3 align="center">🚀 A passionate <span style="color:#ff66cc;">CSE Student</span> exploring the world of Programming 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00bfff&center=true&vCenter=true&width=550&lines=I+have+completed+C+Language+✅;Currently+learning+C%2B%2B+🚀;I+love+to+code+and+create+projects!+💡;Learning+everyday+and+growing+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00bfff&center=true&vCenter=true&width=550&lines=I+have+completed+C+Language+✅;Currently+learning+C%2B%2B+🚀;I+love+to+code+and+build+new+projects!+💡;Learning+everyday+and+growing+🌱" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- ====== ABOUT ME SECTION ====== -->
+<h2 align="center">🌼 About Me</h2>
+
+<p align="center">
+💻 I'm currently pursuing my degree in <b>Computer Science Engineering</b>.<br>
+🧠 I’ve learned <b>C Programming</b> and now diving deep into <b>C++</b> to strengthen my coding skills.<br>
+🎯 My goal is to become a strong problem solver and explore <b>Development & DSA</b> in the future.<br>
+🌱 I believe consistency and curiosity are the keys to growth.<br>
+✨ I enjoy turning logic into code and ideas into real projects!
 </p>
 
 ---
@@ -16,22 +29,11 @@
 
 ---
 
-<!-- ====== STATS & LANGUAGES ====== -->
-<h2 align="center">📊 GitHub Stats & Languages</h2>
+<!-- ====== GITHUB STATS ====== -->
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false&border_radius=15" height="180em" />
-</p>
-
----
-
-<!-- ====== LANGUAGES SECTION ====== -->
-<h2 align="center">🧩 Languages I Know</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
@@ -47,7 +49,7 @@
 ---
 
 <!-- ====== QUOTE / FOOTER ====== -->
-<h3 align="center">⭐ "Code, Learn, and Build — because every line brings you closer to greatness!" ⭐</h3>
+<h3 align="center">⭐ "Keep learning, keep creating — every small step makes a big difference!" ⭐</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff66cc&height=100&section=footer" />
